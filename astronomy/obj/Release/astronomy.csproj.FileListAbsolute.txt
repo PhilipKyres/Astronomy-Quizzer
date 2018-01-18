@@ -1,0 +1,9 @@
+E:\Documents\Visual Studio 2015\Projects\GoogleCodeJam\astronomy\astronomy\bin\Release\astronomy.exe.config
+E:\Documents\Visual Studio 2015\Projects\GoogleCodeJam\astronomy\astronomy\bin\Release\astronomy.exe
+E:\Documents\Visual Studio 2015\Projects\GoogleCodeJam\astronomy\astronomy\bin\Release\astronomy.pdb
+E:\Documents\Visual Studio 2015\Projects\GoogleCodeJam\astronomy\astronomy\obj\Release\astronomy.MainQuizForm.resources
+E:\Documents\Visual Studio 2015\Projects\GoogleCodeJam\astronomy\astronomy\obj\Release\astronomy.Properties.Resources.resources
+E:\Documents\Visual Studio 2015\Projects\GoogleCodeJam\astronomy\astronomy\obj\Release\astronomy.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2015\Projects\GoogleCodeJam\astronomy\astronomy\obj\Release\astronomy.exe
+E:\Documents\Visual Studio 2015\Projects\GoogleCodeJam\astronomy\astronomy\obj\Release\astronomy.pdb
+E:\Documents\Visual Studio 2015\Projects\GoogleCodeJam\astronomy\astronomy\obj\Release\astronomy.csprojResolveAssemblyReference.cache
